@@ -1,0 +1,2 @@
+# EcommerceDatasetClassification
+LabelEncoding-TFIDFVectorizer-SMOTE-MultinomialNB-SVC-RndomForest
